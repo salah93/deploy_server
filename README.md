@@ -144,7 +144,7 @@ sudo cat <<EOF >  /etc/apache2/sites-available/catalog.conf
     WSGIScriptAlias / /var/www/catalog_app/wsgi.py
 
     <Directory /var/www/catalog_app>
-        Order allow,deny
+        Order deny,allow
         Allow from all
     </Directory>
 </VirtualHost>
