@@ -208,6 +208,6 @@ tail -f error.log
 ```
 
 ### Resources
-[install and use postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
-[wsgi and apache configuration](http://peatiscoding.me/geek-stuff/mod_wsgi-apache-virtualenv/)
-[Linking domain name to ip](https://www.godaddy.com/help/add-an-a-record-19238)
++ [install and use postgres](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04)
++ [wsgi and apache configuration](http://peatiscoding.me/geek-stuff/mod_wsgi-apache-virtualenv/)
++ [Linking domain name to ip](https://www.godaddy.com/help/add-an-a-record-19238)
